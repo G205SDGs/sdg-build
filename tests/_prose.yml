@@ -95,7 +95,7 @@ prose:
       - name: "computation_definitions"
         field:
             element: textarea
-            label: "Definitions"
+            label: "Data description"
             scope: national
       - name: "computation_calculations"
         field:
